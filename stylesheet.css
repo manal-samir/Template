@@ -1,0 +1,255 @@
+
+body{
+    overflow-x: hidden;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header{
+    background-color:#BA5225;
+}
+
+.fa-fire{
+    font-size: 3em;
+    color:#ffff;
+    margin-top:10%;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffff;
+    font-weight: bold;
+    font-size:50px;
+    margin-top:3px;
+}
+
+.header-text{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffff;
+    font-size:13px;
+    margin-top:-2%;
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color:#ffff;
+}
+
+li{
+    display:inline-block;
+    padding: 25px;
+    font-size:15px;
+    margin: 7% 0;
+}
+
+.header{
+    text-align: center;
+}
+
+.headline-part1, .headline-part3{
+    color:#333333;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size:40px;
+}
+
+.parapgrah-part1, .parapgrah-part3{
+    color:#6F6F6F;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top:-2%;
+}
+
+.part1-text{
+    text-align: center;
+    margin-top:10%;
+}
+
+.headline-card{
+    color:#666666;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.paragraph-card{
+    color:#7F7F7F;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+}
+
+.button1{
+    background-color:#AF3500;
+    border:none;
+    color:#ffff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding:20px 50px;
+    margin-top:3%;
+    margin-bottom:3% ;
+}
+
+.card1{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+.card1{
+    text-align: center;
+}
+
+.cards-part1{
+    background-color: #ffff;
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    margin:5%;
+}
+
+.gallery{
+    background-color: #ffff;
+    margin:10px;
+}
+
+
+.headline-part2{
+    color:#EAEAEA;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:40px;
+   }
+
+.paragraph-part2{
+    color:#636F6F;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:18px;
+    font-style:inherit;
+    margin-top:-2%;
+}
+
+.main-paragraph{
+    color:#5B6666;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 2;
+    font-size:16px;
+    margin-top:5%;
+}
+
+.secondary-button{
+    background-color:#B03500;
+    color:#DFA771;
+    opacity:0.8;
+    padding:30px 70px;
+    font-size:16px;
+    border:none;
+    margin-top:7%;
+    margin-bottom:3%;
+}
+
+
+
+.part2{
+    text-align: center;
+    padding:12%;
+}
+
+.main-part2{
+    background-color: #242424;
+    margin-top: 10%;
+}
+
+.text-part3{
+    text-align: center;
+    padding-top:5%;
+}
+
+.part-3{
+    background-color:#EDEDED;
+    padding:5%;
+}
+
+input[type=text] {
+    width: 50%;
+    padding: 25px 10px;
+    margin: 8px 0;
+    border:1px solid #D5D5D5;
+    background-color: #FAFAFA;
+  }
+
+  textarea{
+    width: 50%;
+    height: 200px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .button3{
+    background-color:#B03500;
+    color:#DFA771;
+    padding:30px 70px;
+    font-size:16px;
+    border:none;
+    margin-top:3%;
+    margin-bottom:3%;
+  }
+
+  form{
+      text-align: center;
+      margin-top:5%;
+  }
+
+
+  .headline-part4{
+      color:#F4F5F2;
+      font-family: Arial, Helvetica, sans-serif;
+      font-size:40px;
+  }
+
+  .parapgrah-part4{
+      color:#BEC5AA;
+      font-family: Arial, Helvetica, sans-serif;
+      margin-top:-2%;
+      font-size:18px;
+
+  }
+
+.part4{
+    text-align:center;
+    padding-top:7%;
+}
+
+
+  .part4-block{
+      background-color: #939E77;
+  }
+
+  .icon{
+    font-size: 1.6em;
+    margin:5px;
+    padding:18px;
+    color:#ffff;
+    background-color: #333333;
+  }
+
+  .icons-block{
+      text-align: center;
+      padding:6%;
+  }
+
+  .footer{
+      background-color:#00838C;
+      padding:7%;
+  }
+
+  .footer-text{
+    font-family: Arial, Helvetica, sans-serif;
+    color:#41A8A9;
+    text-align: center;
+    font-size: 13px;
+  }
